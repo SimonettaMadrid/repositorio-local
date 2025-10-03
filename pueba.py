@@ -41,3 +41,11 @@ datos=resumen_analitica()
 print(datos["total"])
 print(datos["promedio"])
 print('lol')
+
+
+
+
+
+print('lol')
+print('si')
+
